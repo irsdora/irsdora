@@ -1,25 +1,25 @@
-### <h1> Olá, eu sou a Isadora Silva👋</h1>
+### <h1> Hi, there 👩🏽‍💻👋   ||  Olá, eu sou a Isadora Silva👩🏽‍💻👋</h1>
 
 
 ##
--  💻📝 About me: 
-         <p>Hello, I'm Isadora.</p> <p>I'm interested in back-end development.</p>
-          <p> I like to read, listen to music, watch series and learn about topics related to technology and development.</p>
-
+-  📌💻📝 About me: 
+         Hello, I'm Isadora. I'm interested in back-end development.
+         I like to read, listen to music, watch series and learn about topics related to technology and development.
   -  💻📝 I’m currently learning Java, MySQL, HTML ,CSS and Spring Java Frameworks.
   -  💻📝 I’m looking to collaborate on Java projects.
 
   
 ## 
--  💻📝 Sobre mim: 
-          <p>Olá, sou Isadora. </p>
-          <p>Gosto de ler, ouvir música, assistir séries e aprender sobre temas ligados a área de tecnologia e desenvolvimento.</p>
-
+-  📌💻📝 Sobre mim: 
+          Olá, sou Isadora. 
+          Gosto de ler, ouvir música, assistir séries e aprender sobre temas ligados a área de tecnologia e desenvolvimento.
   -  💻📝 Estou aprendendo Java, MySQL, HTML ,CSS  e Frameworks para back-end.
   -  💻📝 Estou com foco em desenvolvimento de projetos da linguagem de programação Java.
 
 ##
--  📌📝💻 Programming Skills that I'm interested in developing:
+-  📌📝💻 Programming Skills that I'm interested in developing  (linguagens de programação, ides e banco de dados):
+         
+
  <p>
 <div align="center">
   <a href="https://https://github.com/irsdora">     
