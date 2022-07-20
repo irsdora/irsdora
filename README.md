@@ -1,7 +1,7 @@
-### <h1> Hi, there 👩🏽‍💻👋   ||  Olá, eu sou a Isadora Silva👩🏽‍💻👋</h1>
+## <h1> Hi, there 👩🏽‍💻👋   ||  Olá, eu sou a Isadora Silva👩🏽‍💻👋</h1>
 
 
-##
+#
 -  📌💻📝 About me: 
          <strong>Hello, I'm Isadora.</strong> I'm interested in back-end development.
          I like to read, listen to music, watch series and learn about topics related to technology and development.
@@ -9,17 +9,7 @@
    -  💻📝 What I like most about the <strong>front-end</strong> is improving my creative side by developing layouts, colors and style combinations for different interfaces and <strong>the different challenges of the front-end side.</strong>
   -  💻📝 I’m looking to collaborate on <strong>Java projects.</strong>
 
-  
-## 
--  📌💻📝 Sobre mim: 
-          Olá, sou Isadora. 
-          Gosto de ler, ouvir música, assistir séries e <strong>aprender sobre temas ligados a área de tecnologia.</strong>
-  -  💻📝 Estou aprendendo Java, MySQL, HTML ,CSS  e Frameworks para back-end.
-  
-  - 💻📝 O que mais gosto sobre <strong>front-end</strong> é aprimorar o meu lado criativo ao desenvolver layouts, cores e combinações de estilos para diversas interfaces e os diferentes <strong>desafios do lado front-end.</strong>
-  -  💻📝 Estou com foco em desenvolvimento de projetos da linguagem de programação <strong>Java.</strong>
-
-##
+#
 -  📌📝💻 Programming <strong>Skills</strong> that I'm interested in <strong>developing</strong>  (linguagens de programação, ides e banco de dados):
          
 
@@ -34,8 +24,10 @@
 <img height="40em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img height="40em" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
-
--📝💻 
+      
+  ##
+  
+ 📝👩🏽‍💻👋💻 
 <div align="center">
 <img height="35em" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img height="35em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
