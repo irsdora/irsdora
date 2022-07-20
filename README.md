@@ -3,21 +3,24 @@
 
 ##
 -  📌💻📝 About me: 
-         Hello, I'm Isadora. I'm interested in back-end development.
+         <strong>Hello, I'm Isadora.</strong> I'm interested in back-end development.
          I like to read, listen to music, watch series and learn about topics related to technology and development.
-  -  💻📝 I’m currently learning Java, MySQL, HTML ,CSS and Spring Java Frameworks.
-  -  💻📝 I’m looking to collaborate on Java projects.
+  -  💻📝 I’m currently learning <strong>Java, MySQL, HTML ,CSS and Spring Java Frameworks.</strong>
+   -  💻📝 What I like most about the <strong>front-end</strong> is improving my creative side by developing layouts, colors and style combinations for different interfaces and <strong>the different challenges of the front-end side.</strong>
+  -  💻📝 I’m looking to collaborate on <strong>Java projects.</strong>
 
   
 ## 
 -  📌💻📝 Sobre mim: 
           Olá, sou Isadora. 
-          Gosto de ler, ouvir música, assistir séries e aprender sobre temas ligados a área de tecnologia e desenvolvimento.
+          Gosto de ler, ouvir música, assistir séries e <strong>aprender sobre temas ligados a área de tecnologia.</strong>
   -  💻📝 Estou aprendendo Java, MySQL, HTML ,CSS  e Frameworks para back-end.
-  -  💻📝 Estou com foco em desenvolvimento de projetos da linguagem de programação Java.
+  
+  - 💻📝 O que mais gosto sobre <strong>front-end</strong> é aprimorar o meu lado criativo ao desenvolver layouts, cores e combinações de estilos para diversas interfaces e os diferentes <strong>desafios do lado front-end.</strong>
+  -  💻📝 Estou com foco em desenvolvimento de projetos da linguagem de programação <strong>Java.</strong>
 
 ##
--  📌📝💻 Programming Skills that I'm interested in developing  (linguagens de programação, ides e banco de dados):
+-  📌📝💻 Programming <strong>Skills</strong> that I'm interested in <strong>developing</strong>  (linguagens de programação, ides e banco de dados):
          
 
  <p>
