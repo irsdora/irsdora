@@ -1,7 +1,5 @@
 ## <h1> Hi, there ||  Olá, eu sou a Isadora Silva👩🏽‍💻 </h1>
 
-
-#
 -  About me: 
          <strong>Hello, I'm Isadora.</strong> I'm interested in back-end development.
          I like to read, listen to music, watch series and learn about topics related to technology and development.
@@ -12,8 +10,6 @@
 #
 -  Programming <strong>Skills</strong> that I'm interested in <strong>developing</strong>  (linguagens de programação, ides e banco de dados):
          
-
- <p>
 <div align="center">
   <a href="https://https://github.com/irsdora">     
 
@@ -24,15 +20,9 @@
 <img height="40em" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
       
-  ##
   
 <div align="center">
 <img height="35em" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img height="35em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img height="35em" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
-</div>
 
-##
-<div align="center">
-<a href="https://github.com/irsdora/irsdora" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
