@@ -5,7 +5,7 @@
          I like to read, listen to music, watch series and learn about topics related to technology and development.
   -   I’m currently learning <strong>Java, MySQL, HTML ,CSS and Spring Java Frameworks.</strong>
    -   What I like most about the <strong>front-end</strong> is improving my creative side by developing layouts, colors and style combinations for different interfaces and <strong>the different challenges of the front-end side.</strong>
-  -  I’m looking to collaborate on <strong>Java projects.</strong>
+  -  I’m looking to collaborate on <strong>frontend projects.</strong>
 
 #
 -  Programming <strong>Skills</strong> that I'm interested in <strong>developing</strong>  (linguagens de programação, ides e banco de dados):
