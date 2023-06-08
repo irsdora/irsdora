@@ -1,4 +1,4 @@
-<h1> Hi!👩🏽‍💻 | Olá, eu sou a Isadora! </h1>
+<h1> Hi!👩🏽‍💻 | Oi, sou Isadora! </h1>
 
 -  About me: 
          <strong>Hello, I'm Isadora.</strong> I'm interested in backend & frontend development. <br>
