@@ -3,7 +3,7 @@
 -  About me: 
          <strong>Hello, I'm Isadora.</strong> I'm interested in backend & frontend development. <br>
          I like to read, listen to music, watch series and learn about topics related to technology and development.
-  -   I’m currently learning <strong> JavaScript, HTML,SQL, CSS and Frameworks for Web Development.</strong>
+  -   I’m currently learning <strong> JavaScript, HTML, CSS and Frameworks for Web Development.</strong>
    -   What I like most about the <strong>front-end</strong> is improving my creative side by developing layouts, colors and style combinations for different interfaces and <strong>the different challenges of the front-end side.</strong>
   -  I’m looking to collaborate on <strong>frontend projects.</strong>
 
