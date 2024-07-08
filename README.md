@@ -37,7 +37,7 @@
 
 #
 
-      <h2> I'm from Brazil. 💛 | Eu sou do Brasil. 💛 </h2>
+          <h2> I'm from Brazil. 💛 | Eu sou do Brasil. 💛 </h2>
  Sobre mim: 
          <strong>
          - Eu amo ler e ouvir música no meu tempo livre.
