@@ -2,7 +2,7 @@
 
                                                    
                                                    
-                                                   <h2> Hi!👩🏽‍💻 | Oi, sou Isadora! 👩🏽‍💻 </h2>
+             <h2> Hi!👩🏽‍💻 | Oi, sou Isadora! 👩🏽‍💻 </h2>
 
 -  About me: 
          <strong>Hello, I'm Isadora.</strong> I'm interested in backend & frontend development. <br>
