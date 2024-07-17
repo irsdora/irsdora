@@ -2,7 +2,8 @@
 
                                                    
                                                    
-             <h2> Hi!👩🏽‍💻 | Oi, sou Isadora! 👩🏽‍💻 </h2>
+             <h2> Hi!| Oi, sou Isadora!👩🏽‍💻</h2>
+             <h2> I'm from Brazil.| Eu sou do Brasil.💛</h2>
 
 -  About me: 
          <strong>Hello, I'm Isadora.</strong> I'm interested in backend & frontend development. <br>
@@ -37,10 +38,6 @@
 
 #
 
-          <h2> I'm from Brazil. 💛 | Eu sou do Brasil. 💛 </h2>
- Sobre mim: 
-         <strong>
-         - Eu amo ler e ouvir música no meu tempo livre.
-         - Sou fã da Taylor Swift desde 2009.
-         - Gosto de Fórmula 1 e futebol, minha torcida sempre vai ser para a Ferrari vencer e meu time do coração é o Esporte Clube Vitória.</strong> <br>
+      <h2> Gosto de Fórmula 1, Futebol e de acompanhar canais de Tecnologia 👩🏽‍💻</h2>
+      
    
