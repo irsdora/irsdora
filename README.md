@@ -5,13 +5,10 @@ A-p-a-i-x-o-n-a-d-a pelos ramos de Qualidade de Software, Testes, UX/UI Design.
 <br>
 <h2> 💜  About me </h2>
   I'm interested in frontend, quality assurance and UX/UI Design development. 
-  <br>
   I like to read, listen to music, watch series and learn about topics related to technology and development.
-  <br>
   I’m currently learning <strong> Python, Quality Assurance and Frameworks for Web Development.</strong> 
-  <br>
-  What I like most about the <strong>front-end</strong> is improving my creative side by developing layouts, colors and style combinations for different interfaces and <strong>the different challenges of the front-end side.</strong> <<br>
-  I’m looking to collaborate on <strong>frontend projects.</strong>
+  What I like most about the <strong>front-end</strong> is improving my creative side by developing layouts, colors and style combinations for different interfaces and <strong>the different challenges of the front-end side.</strong> 
+
 
 
   <a href="https://https://github.com/irsdora">     
