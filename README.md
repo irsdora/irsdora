@@ -2,13 +2,13 @@
 <h3>⭐About me:</h3>
 🌎 Based in Brazil.
 <br>
-👩🏾‍💻 Currently studying about Quality Assurance, UI/UX Design & Database.
+📚 Currently studying about Quality Assurance, UI/UX Design & Database.
 <br>
 👩🏾‍🎓 System Analysis and Development.
 <br>
-👩🏾‍💻 Deeply fascinated by all things in Software Quality, Testing, and UX/UI Design.
+💖 Deeply fascinated by all things in Software Quality, Testing, and UX/UI Design.
 <br>
-👩🏾‍🎓 Looking to collaborate on innotivate projects and continuously exploring new technologies.
+💻 Looking to collaborate on innotivate projects and continuously exploring new technologies.
 
 <h3>📒 Technologies & Tools
   <br>
