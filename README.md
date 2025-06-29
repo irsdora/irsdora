@@ -1,17 +1,17 @@
 <h1> Print ("🙋🏾‍♀️ Hi there, I'm Isadora Silva!") </h1>
-<h3>⭐About me:</h3>
+<h4>⭐About me
+  <br>
 🌎 Based in Brazil.
 <br>
-📚 Currently studying about Quality Assurance, UI/UX Design & Database.
+📚Currently studying about Quality Assurance & Database.
 <br>
-👩🏾‍🎓 System Analysis and Development.
+👩🏾‍🎓System Analysis and Development.
 <br>
-💖 Deeply fascinated by all things in Software Quality, Testing, and UX/UI Design.
+💖Deeply fascinated by all things in Software Quality, Testing, and UX/UI Design.
 <br>
-💻 Looking to collaborate on innotivate projects and continuously exploring new technologies.
+💻Looking to collaborate on innotivate projects and continuously exploring new technologies.
 
-<h3>📒 Technologies & Tools
-  <br>
+<h4>📒 Technologies & Tools
   <br>
   Agile Software Development
    <br>
@@ -31,7 +31,7 @@
   <BR>
  Languages <div style="display: inline_block">
 <img align="align" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="align" alt="JavaScript" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="align" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="align" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="align" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <br>  
@@ -49,15 +49,17 @@
    <img align="align" alt="GITHUB" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&labelColor=44475a"/>
   <img align="align" alt="POWERBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
   
-</h3>
+</h4>
    
-<h3> 🏆 My goals:</h3>
-👩🏾‍💻 Speacialist QA Engineer 
+<h4>🏆 My goals:
+  <br>
+-  Speacialist QA Engineer 
 <br>
-👩🏾‍💻 Certified tester 
+- Certified tester 
 
 
-<h3> 🔔 Get in touch </h3>
+<h4>🔔 Get in touch
+  <br>
 📩 Linkedin: wwww.linkedin.com/in/isadorarsilva
 <br>
 📩 Instagram: www.instagram.com/oqueisaddoraler
