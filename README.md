@@ -1,21 +1,17 @@
 <h1> Print ("🙋🏾‍♀️ Hi there, I'm Isadora Silva!") </h1>
-<h4> About me
-  <br>
-  <br>
 
-🌎 Based in Brazil.
-<br>
-📚Currently studying about Appium, Cypress, Postman, Selenium.
-<br>
-👩🏾‍🎓System Analysis and Development.
-<br>
-💖Deeply fascinated by all things in Software Quality, Testing, and UX/UI Design.
-<br>
-💻Looking to collaborate on innotivate projects and continuously exploring new technologies.
+Olá 👋,
 
-<h4> Technologies & Tools
-  <br>
-  <br>
+Meu nome é Isadora e atuo na área de Qualidade de Software (QA).
+
+Acredito que qualidade vai além de encontrar erros: é entender o produto, testar com propósito e colaborar para entregar a melhor experiência possível ao usuário. 
+<BR>
+<BR>
+Gosto de participar ativamente do processo, analisando, testando e contribuindo para soluções do início ao fim.
+
+Alguns dos meus principais projetos estão destacados abaixo, e você também pode conferir outros no meu portfólio.
+
+<h4>
   Languages | Agile Software Development
    <br>
   <br>
@@ -44,19 +40,7 @@
    <img align="align" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img align="align" alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="align" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-
    <br>
-
-  
-</h4>
-   
-<h4>🏆 My goal:
-<br>
-<br>
-
- Certified tester 
-
-
 <h4>🔔 Get in touch
     <br>
 📩 Linkedin: wwww.linkedin.com/in/isadorarsilva
